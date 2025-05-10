@@ -131,4 +131,4 @@ AI/ML Developer | Data Scientist | Full Stack Engineer
 
 ## 📜 License
 
-This project is licensed under the MIT License. Feel free to use and adapt it.
+This project is licensed under the GPL-3.0 (GNU General Public License v3.0) License. Feel free to use and adapt it.
